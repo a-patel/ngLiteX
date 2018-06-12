@@ -1,0 +1,2 @@
+# ngLiteX
+Angular boilerplate application.
